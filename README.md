@@ -1,2 +1,2 @@
 # Repo7
-Git2Jenins from DevOps Course bu Utkarsh
+Git2Jenins from DevOps Course by Utkarsh
